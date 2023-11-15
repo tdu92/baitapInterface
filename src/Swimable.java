@@ -1,2 +1,5 @@
-package src;public interface Swimable {
+package src;
+
+public interface Swimable {
+    String swim();
 }
